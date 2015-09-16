@@ -41,7 +41,7 @@ module.exports = function(grunt) {
       }
     },
      browserify: {
-      'js/kordano.js': ['js/global.js']
+      'js/lk.js': ['js/global.js']
      },
     watch: {
       scripts: {
