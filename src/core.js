@@ -21,7 +21,7 @@ var navView = React.createClass({
       return React.DOM.a({href: n.url, className: 'nav-item'}, n.text);
     });
     return React.DOM.div({id: "sub-nav"},
-                         React.DOM.a({href: "#/", id: "home-item", className: "nav-item"}, "Konrad Kühne"),
+                         React.DOM.a({href: "#/", id: "home-item", className: "nav-item"}, "Lambda Kollektiv"),
                          navList);
   }
 });

@@ -26,8 +26,8 @@ module.exports = function(grunt) {
     },
     uglify: {
       build: {
-        src: "js/kordano.js",
-        dest: "js/kordano.min.js"
+        src: "js/lk.js",
+        dest: "js/lk.min.js"
       }
     },
     sass: {

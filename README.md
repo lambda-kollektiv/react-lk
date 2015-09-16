@@ -1,6 +1,6 @@
-# react-kordano
+# react-lk
 
-My personal website built in Javascript using React and useful helper libraries.
+Our personal website built in Javascript using React and useful helper libraries.
 
 ## Overview
 
@@ -8,7 +8,7 @@ My personal website built in Javascript using React and useful helper libraries.
 
 ## License
 
-Copyright © 2015 Konrad Kühne
+Copyright © 2015 Konrad Kühne et al.
 
 Distributed under the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
